@@ -45,7 +45,7 @@ This guide will walk you through the process of deploying WordPress on AWS using
     - Finish the setup and launch the RDS instance.
 
 3. **Find RDS Endpoint**
-    - In the RDS Dashboard, navigate to your instance and note down the **Endpoint** (e.g., `yt-wordpress.cfpgnjehw330.ap-south-1.rds.amazonaws.com`).
+    - In the RDS Dashboard, navigate to your instance and note down the **Endpoint** (e.g., `wordpress.cfpgnjehw330.ap-south-1.rds.amazonaws.com`).
 
 ## Step 3: Configure EC2 to Connect to RDS
 
